@@ -2,6 +2,11 @@
 create: 09.4.2019
 autorTimers
 Exercise 2
+
+Comment by Antti: read the instructions: 
+	Connect a switch to P0.3. 
+	Connect a servo motor signal line to  P0.4. 
+
 */
 
 #include <m8c.h>        // part specific constants and macros
